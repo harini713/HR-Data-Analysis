@@ -52,17 +52,21 @@ Key Insights
 
 (Fill in with your specific findings once reviewed — suggested talking points based on the visuals built)
 
-Which department/job role has the highest attrition rate
-Whether employees working overtime attrite at a noticeably higher rate
-Whether low job satisfaction / work-life balance correlates with attrition
-Whether attrition is concentrated among employees with fewer years since their last promotion or shorter tenure
-Any pattern between monthly income and attrition risk
+Which department/job role has the highest attrition rate.
+Whether employees working overtime attrite at a noticeably higher rate.
+Whether low job satisfaction / work-life balance correlates with attrition.
+Whether attrition is concentrated among employees with fewer years since their last promotion or shorter tenure.
+Any pattern between monthly income and attrition .
+
 How to Use the Dashboard
+
 Open HR_data_analysis.pbix in Power BI Desktop.
 Use the slicers (Gender, Department, Marital Status, First Job Role) to filter the views.
 Start on Page 1 for a high-level snapshot, then move to Page 2 for driver analysis and drill-downs via the Decomposition Tree.
 Hover over the Key Drivers visual to see the relative influence of each factor on attrition.
+
 Tools Used
+
 Power BI Desktop — data modeling, DAX measures, and dashboard visuals
 Exploratory Data Analysis performed on the source HR dataset prior to dashboard development
 File
